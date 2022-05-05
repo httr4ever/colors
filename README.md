@@ -1,1 +1,5 @@
 # colors
+
+red
+blue
+yellow
